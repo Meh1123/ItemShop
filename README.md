@@ -5,7 +5,7 @@ na
 na
 na
 EID_Zombie, 800
-Pickaxe_ID_111_BlackWidow, 800
+CID_397_Athena_Commando_F_TreasureHunterFashion, 800
 Pickaxe_ID_140_StreetGoth, 800
 Glider_ID_084_Plague, 800
 Umbrella_Season_06, 200
